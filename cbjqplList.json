@@ -104,6 +104,30 @@
         {
             "UID": 113297545,
             "reason": "https://tieba.baidu.com/p/9377790794"
+        },
+        {
+            "UID": 80043957,
+            "reason": "https://tieba.baidu.com/p/9360622853"
+        },
+        {
+            "UID": 630789088,
+            "reason": "https://tieba.baidu.com/p/9364080912"
+        },
+        {
+            "UID": 3546703015709118,
+            "reason": "https://tieba.baidu.com/p/9230398525"
+        },
+        {
+            "UID": 330374698,
+            "reason": "https://tieba.baidu.com/p/9363949997"
+        },
+        {
+            "UID": 662401245,
+            "reason": "https://tieba.baidu.com/p/9364664610"
+        },
+        {
+            "UID": 291867496,
+            "reason": "https://tieba.baidu.com/p/9363968282"
         }
     ],
     "notPLList":
@@ -115,6 +139,6 @@
 
     ],
 
-    "updateTime": "2025-01-01 20:30:00",
-    "version": "1.1.2"
+    "updateTime": "2025-01-01 22:00:00",
+    "version": "1.1.3"
 }
