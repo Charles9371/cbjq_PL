@@ -144,6 +144,14 @@
         {
             "UID": 3537122145340384,
             "reason": "https://tieba.baidu.com/p/9387108905"
+        },
+        {
+            "UID": 3546682010635160,
+            "reason": "https://tieba.baidu.com/p/9306944226"
+        },
+        {
+            "UID": 518113839,
+            "reason": "https://tieba.baidu.com/p/9306944226"
         }
     ],
     "notPLList":
@@ -155,6 +163,6 @@
 
     ],
 
-    "updateTime": "2025-01-04 10:00:00",
-    "version": "1.1.4"
+    "updateTime": "2025-01-04 11:00:00",
+    "version": "1.1.5"
 }
