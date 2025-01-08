@@ -260,6 +260,14 @@
         {
             "UID": 15345042,
             "reason": "https://tieba.baidu.com/p/9398583680"
+        },
+        {
+            "UID": 283264924,
+            "reason": "https://tieba.baidu.com/p/9398583680"
+        },
+        {
+            "UID": 692448955,
+            "reason": "https://tieba.baidu.com/p/9398583680"
         }
     ],
     "ChuanGuiList":
@@ -274,7 +282,8 @@
         "20054458",
         "1858092",
         "34157989",
-        "3405228"
+        "3405228",
+        "283264924"
     ],
     "notPLList":
     [
@@ -285,6 +294,6 @@
 
     ],
 
-    "updateTime": "2025-01-8 7:00:00",
-    "version": "2.1.3"
+    "updateTime": "2025-01-8 9:00:00",
+    "version": "2.1.4"
 }
