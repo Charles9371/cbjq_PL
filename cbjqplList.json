@@ -219,7 +219,7 @@
         },
         {
             "UID": 3493080023959739,
-            "reason": "https://tieba.baidu.com/p/9397169368"
+            "reason": "https://tieba.baidu.com/p/9397169368; https://tieba.baidu.com/p/9399165066"
         },
         {
             "UID": 1480100166,
@@ -231,7 +231,7 @@
         },
         {
             "UID": 269758518,
-            "reason": "https://tieba.baidu.com/p/9398583680"
+            "reason": "https://tieba.baidu.com/p/9398583680; https://tieba.baidu.com/p/9399165066"
         },
         {
             "UID": 59152086,
@@ -279,6 +279,10 @@
         },
         {
             "UID": 44606203,
+            "reason": "https://tieba.baidu.com/p/9398583680"
+        },
+        {
+            "UID": 393507740,
             "reason": "https://tieba.baidu.com/p/9398583680"
         },
         {
