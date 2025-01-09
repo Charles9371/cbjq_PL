@@ -352,6 +352,22 @@
         {
             "UID": 3546706012539344,
             "reason": "https://tieba.baidu.com/p/9103924395"
+        },
+        {
+            "UID": 3494360645634421,
+            "reason": "https://tieba.baidu.com/p/9400669586"
+        },
+        {
+            "UID": 3546745692751920,
+            "reason": "https://tieba.baidu.com/p/9400669586"
+        },
+        {
+            "UID": 130603036,
+            "reason": "https://tieba.baidu.com/p/9400669586"
+        },
+        {
+            "UID": 44598692,
+            "reason": "https://tieba.baidu.com/p/9400669586"
         }
     ],
     "ChuanGuiList":
@@ -385,6 +401,6 @@
 
     ],
 
-    "updateTime": "2025-01-9 3:00:00",
-    "version": "2.1.7"
+    "updateTime": "2025-01-9 4:00:00",
+    "version": "2.1.8"
 }
