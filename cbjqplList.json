@@ -467,11 +467,15 @@
         },
         {
             "UID": 1307063125,
-            "reason": "黑二创 https://tieba.baidu.com/p/9408670500"
+            "reason": "黑二创 https://tieba.baidu.com/p/9409085722；https://tieba.baidu.com/p/9409526804"
         },
         {
             "UID": 3546766563608990,
             "reason": "https://tieba.baidu.com/p/9408466793"
+        },
+        {
+            "UID": 73623806,
+            "reason": "https://tieba.baidu.com/p/9409703874"
         }
     ],
     "ChuanGuiList":
@@ -505,6 +509,6 @@
 
     ],
 
-    "updateTime": "2025-01-12 2:00:00",
+    "updateTime": "2025-01-12 11:00:00",
     "version": "2.1.12"
 }
