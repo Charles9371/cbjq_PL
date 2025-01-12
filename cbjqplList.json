@@ -468,6 +468,10 @@
         {
             "UID": 10858391,
             "reason": "疑女 https://tieba.baidu.com/p/9406940317"
+        },
+        {
+            "UID": 1307063125,
+            "reason": "黑二创 https://tieba.baidu.com/p/9408670500"
         }
     ],
     "ChuanGuiList":
@@ -501,6 +505,6 @@
 
     ],
 
-    "updateTime": "2025-01-10 12:00:00",
-    "version": "2.1.11"
+    "updateTime": "2025-01-12 2:00:00",
+    "version": "2.1.12"
 }
