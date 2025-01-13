@@ -71,7 +71,7 @@
         },
         {
             "UID": 19085542,
-            "reason": "黑二创 https://tieba.baidu.com/p/9373458645; https://tieba.baidu.com/p/9353625629?pn=2"
+            "reason": "黑二创,多次挑衅常客 https://tieba.baidu.com/p/9373458645; https://tieba.baidu.com/p/9353625629?pn=2; https://tieba.baidu.com/p/9411166296"
         },
         {
             "UID": 3493136150038612,
@@ -207,7 +207,7 @@
         },
         {
             "UID": 3546723471329739,
-            "reason": "https://tieba.baidu.com/p/9397169368； https://tieba.baidu.com/p/9401696982"
+            "reason": "https://tieba.baidu.com/p/9397169368； https://tieba.baidu.com/p/9401696982; https://tieba.baidu.com/p/9411358391"
         },
         {
             "UID": 3493080023959739,
@@ -484,6 +484,14 @@
         {
             "UID": 330102165,
             "reason": "https://tieba.baidu.com/p/9410685230"
+        },
+        {
+            "UID": 1519988,
+            "reason": "https://tieba.baidu.com/p/9411249884"
+        },
+        {
+            "UID": 520413004,
+            "reason": "https://tieba.baidu.com/p/9395643311"
         }
     ],
     "ChuanGuiList":
@@ -506,7 +514,8 @@
         "103285465",
         "2338868",
         "2646007",
-        "24377069"
+        "24377069",
+        "45765434"
     ],
     "notPLList":
     [
@@ -517,6 +526,6 @@
 
     ],
 
-    "updateTime": "2025-01-12 23:00:00",
-    "version": "2.1.12"
+    "updateTime": "2025-01-13 2:00:00",
+    "version": "2.1.13"
 }
