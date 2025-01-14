@@ -547,7 +547,7 @@
         },
         {
             "UID": 265253606 ,
-            "reason": "https://tieba.baidu.com/p/9414429678"
+            "reason": "https://tieba.baidu.com/p/9414429678; https://tieba.baidu.com/p/9415797483"
         },
         {
             "UID": 393156917 ,
@@ -556,6 +556,10 @@
         {
             "UID": 280442240 ,
             "reason": "https://tieba.baidu.com/p/9413112722"
+        },
+        {
+            "UID": 472676579 ,
+            "reason": "https://tieba.baidu.com/p/9415797483"
         }
     ],
     "PendingList":
@@ -629,6 +633,6 @@
 
     ],
 
-    "updateTime": "2025-01-14 15:00:00",
+    "updateTime": "2025-01-14 18:00:00",
     "version": "3.0.00"
 }
