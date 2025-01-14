@@ -558,6 +558,29 @@
             "reason": "https://tieba.baidu.com/p/9413112722"
         }
     ],
+    "PendingList":
+    [
+        {
+            "UID": 448306233 ,
+            "reason": "https://tieba.baidu.com/p/9414045028"
+        },
+        {
+            "UID": 87858469 ,
+            "reason": "https://tieba.baidu.com/p/9415254491； https://tieba.baidu.com/p/9415378867"
+        },
+        {
+            "UID": 1665092782 ,
+            "reason": "https://tieba.baidu.com/p/9415254491"
+        },
+        {
+            "UID": 694117140 ,
+            "reason": "https://tieba.baidu.com/p/9414777091"
+        },
+        {
+            "UID": 15347472 ,
+            "reason": "https://tieba.baidu.com/p/9415260412"
+        }
+    ],
     "ChuanGuiList":
     [
         "240968898",
@@ -590,6 +613,6 @@
 
     ],
 
-    "updateTime": "2025-01-13 13:00:00",
-    "version": "2.1.14"
+    "updateTime": "2025-01-14 15:00:00",
+    "version": "3.0.00"
 }
