@@ -588,6 +588,10 @@
         {
             "UID": 1429214413 ,
             "reason": "https://tieba.baidu.com/p/9416767531"
+        },
+        {
+            "UID": 13884130 ,
+            "reason": "https://tieba.baidu.com/p/9416716624"
         }
     ],
     "PendingList":
@@ -635,6 +639,10 @@
         {
             "UID": 317703212 ,
             "reason": "https://tieba.baidu.com/p/9416650152"
+        },
+        {
+            "UID": 522433629 ,
+            "reason": "https://tieba.baidu.com/p/9016544031; https://tieba.baidu.com/p/9416716624"
         }
     ],
     "ChuanGuiList":
