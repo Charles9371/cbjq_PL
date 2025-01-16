@@ -1355,6 +1355,10 @@
         {
             "UID": 1291434939,
             "reason": "https://tieba.baidu.com/p/9395643311; Backup List"
+        },
+        {
+            "UID": 661610722,
+            "reason": "https://tieba.baidu.com/p/9419540391"
         }
     ],
     "PendingList": [
@@ -1436,6 +1440,6 @@
     ],
     "notPLList": [],
     "ignoreList": [],
-    "updateTime": "2025-01-16 00:00:00",
-    "version": "3.0.02"
+    "updateTime": "2025-01-16 02:00:00",
+    "version": "3.0.03"
 }
