@@ -70,7 +70,7 @@
         },
         {
             "UID": 19085542,
-            "reason": "黑二创,多次挑衅常客 https://tieba.baidu.com/p/9373458645; https://tieba.baidu.com/p/9353625629?pn=2; https://tieba.baidu.com/p/9411166296; https://tieba.baidu.com/p/9412484692"
+            "reason": "黑二创,多次挑衅常客 https://tieba.baidu.com/p/9373458645; https://tieba.baidu.com/p/9353625629?pn=2; https://tieba.baidu.com/p/9420833435; https://tieba.baidu.com/p/9412484692"
         },
         {
             "UID": 3493136150038612,
@@ -1359,6 +1359,26 @@
         {
             "UID": 661610722,
             "reason": "https://tieba.baidu.com/p/9419540391"
+        },
+        {
+            "UID": 184852339,
+            "reason": "https://tieba.baidu.com/p/9420076798"
+        },
+        {
+            "UID": 3546394113607977,
+            "reason": "https://tieba.baidu.com/p/9420938291"
+        },
+        {
+            "UID": 33511748,
+            "reason": "https://tieba.baidu.com/p/9420938291"
+        },
+        {
+            "UID": 1348752938,
+            "reason": "https://tieba.baidu.com/p/9420639430"
+        },
+        {
+            "UID": 20493210,
+            "reason": "https://tieba.baidu.com/p/9420729143"
         }
     ],
     "PendingList": [
@@ -1413,6 +1433,22 @@
         {
             "UID": 301359510,
             "reason": "疑似黑二创；https://tieba.baidu.com/p/9419155260； https://tieba.baidu.com/p/9419219419"
+        },
+        {
+            "UID": 297550279 ,
+            "reason": "https://tieba.baidu.com/p/9420446033"
+        },
+        {
+            "UID": 3546691600910665 ,
+            "reason": "https://tieba.baidu.com/p/9420434869"
+        },
+        {
+            "UID": 68285829 ,
+            "reason": "https://tieba.baidu.com/p/9420284545"
+        },
+        {
+            "UID": 19668989 ,
+            "reason": "https://tieba.baidu.com/p/9421019720"
         }
     ],
     "ChuanGuiList": [
@@ -1436,10 +1472,11 @@
         "2646007",
         "24377069",
         "45765434",
-        "349601253"
+        "349601253",
+        "497812804 "
     ],
     "notPLList": [],
     "ignoreList": [],
-    "updateTime": "2025-01-16 02:00:00",
-    "version": "3.0.03"
+    "updateTime": "2025-01-21 16:00:00",
+    "version": "3.0.04"
 }
