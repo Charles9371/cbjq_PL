@@ -542,7 +542,7 @@
         },
         {
             "UID": 265253606,
-            "reason": "https://tieba.baidu.com/p/9414429678; https://tieba.baidu.com/p/9415797483"
+            "reason": "https://tieba.baidu.com/p/9414429678; https://tieba.baidu.com/p/9415797483; https://tieba.baidu.com/p/9441973808"
         },
         {
             "UID": 393156917,
@@ -1803,9 +1803,50 @@
         {
             "UID": 3546728582089401,
             "reason": "https://tieba.baidu.com/p/9439222107"
-        },{
+        },
+	    {
             "UID": 3546793572829673,
             "reason": "Black List"
+        },
+	    {
+            "UID": 281170657,
+            "reason": "https://tieba.baidu.com/p/9440651936"
+        },
+	    {
+            "UID": 3546832229632039,
+            "reason": "https://tieba.baidu.com/p/9438786721"
+        },
+	    {
+            "UID": 457101330,
+            "reason": "https://tieba.baidu.com/p/9438514262"
+        },
+	    {
+            "UID": 387344438,
+            "reason": "https://tieba.baidu.com/p/9441807196"
+        },
+	    {
+            "UID": 315618408,
+            "reason": "https://tieba.baidu.com/p/9441666246"
+        },
+	    {
+            "UID": 296857213,
+            "reason": "https://tieba.baidu.com/p/9441666246"
+        },
+	    {
+            "UID": 500404007,
+            "reason": "https://tieba.baidu.com/p/9441666246"
+        },
+	    {
+            "UID": 1119879216,
+            "reason": "https://tieba.baidu.com/p/9441666246"
+        },
+	    {
+            "UID": 283784108,
+            "reason": "https://tieba.baidu.com/p/9441666246"
+        },
+	    {
+            "UID": 507079089,
+            "reason": "https://tieba.baidu.com/p/9441666246"
         }
     ],
     "PendingList": [
@@ -1948,6 +1989,42 @@
         {
             "UID": 3546763172514368,
             "reason": "https://tieba.baidu.com/p/9437211975"
+        },
+        {
+            "UID": 26216397,
+            "reason": "https://tieba.baidu.com/p/9438786721"
+        },
+        {
+            "UID": 401753695,
+            "reason": "https://tieba.baidu.com/p/9438786721"
+        },
+        {
+            "UID": 1272335202,
+            "reason": "https://tieba.baidu.com/p/9438786721"
+        },
+        {
+            "UID": 34653501,
+            "reason": "https://tieba.baidu.com/p/9442604829"
+        },
+        {
+            "UID": 479158161,
+            "reason": "https://tieba.baidu.com/p/9442533369"
+        },
+        {
+            "UID": 3549550,
+            "reason": "https://tieba.baidu.com/p/9438585337"
+        },
+        {
+            "UID": 354168018,
+            "reason": "https://tieba.baidu.com/p/9438585337"
+        },
+        {
+            "UID": 146895739,
+            "reason": "https://tieba.baidu.com/p/9438585337"
+        },
+        {
+            "UID": 502689813,
+            "reason": "https://tieba.baidu.com/p/9441666246"
         }
     ],
     "ChuanGuiList": [
@@ -1973,10 +2050,10 @@
         "45765434",
         "349601253",
         "497812804",
-											"3546793572829673"
+	    "3546793572829673"
     ],
     "notPLList": [],
     "ignoreList": [],
-    "updateTime": "2025-01-23 03:00:00",
-    "version": "3.0.06"
+    "updateTime": "2025-01-25 12:00:00",
+    "version": "3.0.07"
 }
