@@ -490,7 +490,7 @@
         },
         {
             "UID": 520413004,
-            "reason": "https://tieba.baidu.com/p/9395643311; https://tieba.baidu.com/p/9431468501"
+            "reason": " 惯犯： https://tieba.baidu.com/p/9395643311; https://tieba.baidu.com/p/9431468501; https://tieba.baidu.com/p/9446117579"
         },
         {
             "UID": 3546695159777432,
@@ -1927,6 +1927,34 @@
 	{
             "UID": 84064718,
             "reason": "https://tieba.baidu.com/p/9444069391"
+        },
+	{
+            "UID": 1131820054,
+            "reason": "https://tieba.baidu.com/p/9442796680"
+        },
+	{
+            "UID": 437008700,
+            "reason": "https://tieba.baidu.com/p/9447045999"
+        },
+	{
+            "UID": 571458962,
+            "reason": "https://tieba.baidu.com/p/9446117579"
+        },
+	{
+            "UID": 1088984147,
+            "reason": "https://tieba.baidu.com/p/9446117579"
+        },
+	{
+            "UID": 181331070,
+            "reason": "https://tieba.baidu.com/p/9446117579"
+        },
+	{
+            "UID": 3493077171833496,
+            "reason": "https://tieba.baidu.com/p/9446117579"
+        },
+	{
+            "UID": 3546740651198900,
+            "reason": "https://tieba.baidu.com/p/9446117579"
         }
     ],
     "PendingList": [
@@ -2152,6 +2180,6 @@
     ],
     "notPLList": [],
     "ignoreList": [],
-    "updateTime": "2025-01-26  00:00:00",
-    "version": "3.0.08"
+    "updateTime": "2025-01-27  17:00:00",
+    "version": "3.0.09"
 }
