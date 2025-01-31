@@ -222,7 +222,7 @@
         },
         {
             "UID": 269758518,
-            "reason": "https://tieba.baidu.com/p/9398583680; https://tieba.baidu.com/p/9399165066; Backup List"
+            "reason": "恶劣顽固分子： https://tieba.baidu.com/p/9398583680; https://tieba.baidu.com/p/9399165066; https://tieba.baidu.com/p/9453759068; Backup List"
         },
         {
             "UID": 59152086,
@@ -486,7 +486,7 @@
         },
         {
             "UID": 1519988,
-            "reason": "https://tieba.baidu.com/p/9411249884; https://tieba.baidu.com/p/9432738436"
+            "reason": "https://tieba.baidu.com/p/9411249884; https://tieba.baidu.com/p/9432738436; https://tieba.baidu.com/p/9455846030"
         },
         {
             "UID": 520413004,
@@ -902,7 +902,7 @@
         },
         {
             "UID": 1524639358,
-            "reason": "Backup List"
+            "reason": "Backup List； https://tieba.baidu.com/p/9453667416"
         },
         {
             "UID": 75208969,
@@ -1454,7 +1454,7 @@
         },
         {
             "UID": 3546837583661923,
-            "reason": "黑二创，https://tieba.baidu.com/p/9431468501 https://tieba.baidu.com/p/9435824965"
+            "reason": "黑二创，https://tieba.baidu.com/p/9431468501 https://tieba.baidu.com/p/9435824965; https://tieba.baidu.com/p/9453234117"
         },
         {
             "UID": 17204683,
@@ -1982,11 +1982,71 @@
         },
 	{
             "UID": 1907369966,
-            "reason": "https://tieba.baidu.com/p/9447045999"
+            "reason": "https://tieba.baidu.com/p/9447045999; https://tieba.baidu.com/p/9448996944"
         },
         {
             "UID": 1449591342,
             "reason": "https://tieba.baidu.com/p/9448473072; https://tieba.baidu.com/p/9447432289"
+        },
+	{
+            "UID": 362771185,
+            "reason": "https://tieba.baidu.com/p/9451469758"
+        },
+	{
+            "UID": 32892173,
+            "reason": "https://tieba.baidu.com/p/9455846030"
+        },
+	{
+            "UID": 148050147,
+            "reason": "https://tieba.baidu.com/p/9448996944"
+        },
+	{
+            "UID": 23812561,
+            "reason": "https://tieba.baidu.com/p/9455846030"
+        },
+	{
+            "UID": 149516318,
+            "reason": "https://tieba.baidu.com/p/9455846030"
+        },
+	{
+            "UID": 349300363,
+            "reason": "https://tieba.baidu.com/p/9451084149"
+        },
+	{
+            "UID": 406735476,
+            "reason": "https://tieba.baidu.com/p/9451084149"
+        },
+	{
+            "UID": 2032815755,
+            "reason": "https://tieba.baidu.com/p/9451084149"
+        },
+	{
+            "UID": 3546632910015239,
+            "reason": "https://tieba.baidu.com/p/9451084149"
+        },
+	{
+            "UID": 3461574675138744,
+            "reason": "https://tieba.baidu.com/p/9451084149; https://tieba.baidu.com/p/9456254042"
+        },
+	{
+            "UID": 3546830071662660,
+            "reason": "https://tieba.baidu.com/p/9451084149"
+        },
+	{
+            "UID": 322301610,
+            "reason": "https://tieba.baidu.com/p/9455827473"
+        },
+	{
+            "UID": 25139594,
+            "reason": "https://tieba.baidu.com/p/9453844275"
+        },
+	{
+            "UID": 651667301,
+            "reason": "https://tieba.baidu.com/p/9455868347"
+        },
+	{
+            "UID": 1349328002,
+            "reason": "https://tieba.baidu.com/p/9454317075"
         }
     ],
     "PendingList": [
@@ -2185,6 +2245,42 @@
         {
             "UID": 328976440,
             "reason": "https://tieba.baidu.com/p/9448473072"
+        },
+        {
+            "UID": 403461576,
+            "reason": "https://tieba.baidu.com/p/9457253076"
+        },
+        {
+            "UID": 484290284,
+            "reason": "疑似女玩家，https://tieba.baidu.com/p/9457460898; https://tieba.baidu.com/p/9453693239"
+        },
+        {
+            "UID": 46919399,
+            "reason": "https://tieba.baidu.com/p/9457263799"
+        },
+        {
+            "UID": 1172008293,
+            "reason": "https://tieba.baidu.com/p/9451398799"
+        },
+        {
+            "UID": 37935400,
+            "reason": "200% https://tieba.baidu.com/p/9455994934"
+        },
+        {
+            "UID": 950076,
+            "reason": "https://tieba.baidu.com/p/9453667416"
+        },
+        {
+            "UID": 362036586,
+            "reason": "200%, https://tieba.baidu.com/p/9448107936"
+        },
+        {
+            "UID": 135869653,
+            "reason": "https://tieba.baidu.com/p/9453103829"
+        },
+        {
+            "UID": 8034352,
+            "reason": "https://tieba.baidu.com/p/9453839789"
         }
     ],
     "ChuanGuiList": [
@@ -2216,6 +2312,6 @@
     ],
     "notPLList": [],
     "ignoreList": [],
-    "updateTime": "2025-01-28  00:00:00",
-    "version": "3.0.10"
+    "updateTime": "2025-01-31  14:00:00",
+    "version": "3.0.11"
 }
