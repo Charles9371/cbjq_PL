@@ -2186,11 +2186,31 @@
         },
 	    {
             "UID": 696484501,
-            "reason": "https://tieba.baidu.com/p/9480063573"
+            "reason": "https://tieba.baidu.com/p/9480063573; https://tieba.baidu.com/p/9489100127"
         },
 	    {
             "UID": 291958289,
             "reason": "https://tieba.baidu.com/p/9480146753"
+        },
+	    {
+            "UID": 397317909,
+            "reason": "https://tieba.baidu.com/p/9489067246; https://tieba.baidu.com/p/9489100127"
+        },
+	    {
+            "UID": 40532462,
+            "reason": "拉黑调查员，https://tieba.baidu.com/p/9489067246"
+        },
+	    {
+            "UID": 403520325,
+            "reason": "https://tieba.baidu.com/p/9489100127"
+        },
+	    {
+            "UID": 342217438,
+            "reason": "https://tieba.baidu.com/p/9489100127"
+        },
+	    {
+            "UID": 500229854,
+            "reason": "https://tieba.baidu.com/p/9489100127"
         }
     ],
     "PendingList": [
@@ -2260,7 +2280,7 @@
         },
         {
             "UID": 19668989 ,
-            "reason": "https://tieba.baidu.com/p/9421019720"
+            "reason": "https://tieba.baidu.com/p/9421019720； https://tieba.baidu.com/p/9489067246"
         },
         {
             "UID": 3546616994728336 ,
@@ -2437,6 +2457,22 @@
         {
             "UID": 12777253,
             "reason": "https://tieba.baidu.com/p/9478101412"
+        },
+        {
+            "UID": 251358803,
+            "reason": "宣传野群： https://tieba.baidu.com/p/9489067246"
+        },
+        {
+            "UID": 22258482,
+            "reason": "https://tieba.baidu.com/p/9489067246"
+        },
+        {
+            "UID": 249076361,
+            "reason": "https://tieba.baidu.com/p/9489204956"
+        },
+        {
+            "UID": 677369911,
+            "reason": "https://tieba.baidu.com/p/9489100127"
         }
     ],
     "ChuanGuiList": [
@@ -2468,6 +2504,6 @@
     ],
     "notPLList": [],
     "ignoreList": [],
-    "updateTime": "2025-02-11  01:00:00",
-    "version": "3.0.13"
+    "updateTime": "2025-02-12  22:00:00",
+    "version": "3.0.14"
 }
